@@ -20,3 +20,7 @@ VSL Duality Strings expression maps make use of new Expression Map features intr
 ## Roadmap
 
 More expression maps will be added over time, with the goal of full Cubase 15 compatibility across all libraries.
+
+## Issues
+
+Found a problem? Feel free to reach out at [afortunato.music@gmail.com](mailto:afortunato.music@gmail.com).
